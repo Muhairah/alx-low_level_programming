@@ -1,15 +1,16 @@
-#include <stdio.h>
-
+#include<stdio.h>
 /**
- *main - Entry point
+ * main - Entry point
  *
- *Description: prints the alphabet in lowercase, and then in uppercase
+ * Description: prints the alphabet in lowercase, and then in uppercase
  *
- *return: Always 0 (success)
+ * Return: Always 0 (succesful)
  */
 
 int main(void)
 {
+
+	int ch,CH;
 
 	char ch = 'a';
 	char CH = 'A';
