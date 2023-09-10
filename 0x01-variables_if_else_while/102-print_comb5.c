@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: A C program using sizeof print size of various tybes.
+ * Description: prints all possible combinations of two two-digit numbers..
  *
  * Return: Always 0 (succesful)
  */
@@ -17,7 +17,7 @@ int main(void)
 		{
 			putchar((n / 10) + '0');
 			putchar((n % 10) + '0');
-			putcar(' ');
+			putchar(' ');
 			putchar((m / 10) + '0');
 			putchar((m % 10) + '0');
 			if (n != 98 || m != 99)
