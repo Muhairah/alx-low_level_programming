@@ -26,11 +26,12 @@ int main(void)
 			putchar(',')
 			putchar(' ')
 			}
-			}
-			++digit2;
+		}
+		++digit2;
 		}
 		++digit1;
 	}
 	putchar('\n');
+
 	return (0);
 }
