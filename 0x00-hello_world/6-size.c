@@ -8,7 +8,7 @@
  * Description: A C program using sizeof print size of various tybes.
  *
  * Return: Always 0 (succesful)
- */
+*/
 
 int main(void)
 {
